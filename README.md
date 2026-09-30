@@ -1,4 +1,4 @@
-🤖 FreeChat AI — Intelligent Conversational Product Assistant
+**🤖 FreeChat AI — Intelligent Conversational Product Assistant**
 
 FreeChat AI is a dynamic, context-aware conversational AI assistant designed to understand natural-language user requests and determine what type of response or action is required.
 
